@@ -49,3 +49,13 @@ Tip :
 	(optional but its a development standard)
 	Always starts the name of class with capital letter ex: "class Demo{ }"
 
+
+
+--------------------------------------------------------------
+--Java is about :											--
+--															--
+--	♦ Objects (objects is nothing it's just a buffer)		--
+--	♦ Reference ID 											--
+--	♦ Reference Variable									--
+--															--
+--------------------------------------------------------------
