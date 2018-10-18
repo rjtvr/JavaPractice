@@ -1,0 +1,20 @@
+• Playing with Reference varible
+• here Temp0 named class have two instance function
+• named : getData()<getter method> and showData()<Setter method>
+• And two Reference variable named t1 and t2
+
+
+ inside reference varibale   :  Temp0@5ccd43c2
+
+
+
+
+Temp0		|		@		|	5ccd43c2
+------------|---------------|---------------
+			|				|	
+Class name  | 	at symbol	|	alpha numeric code.
+			|				|	It is a representation of 
+			|				|	hash code of an object into 
+			|				|	alphanumeric.
+
+ 					       
